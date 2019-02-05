@@ -1,0 +1,11 @@
+.main {
+  @media (min-width: 1120px) {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  &__title { 
+    text-align: center;
+  }
+}

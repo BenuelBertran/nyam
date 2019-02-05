@@ -1,0 +1,26 @@
+.product {
+  position: relative;
+  
+  width: 320px;
+  margin: 0 auto;
+  padding: 38px 80px 65px 80px;
+  
+  text-align: center; 
+  
+  @media (min-width: 720px) {
+    min-width: 720px;
+  }
+  @media (min-width: 1120px) {
+    min-width: 1120px;
+  }
+  
+  &__title {
+    margin-bottom: 35px;
+    
+    font-family: "Exo 2", "Trebuchet MS", sans-serif;
+    
+    @media (min-width: 720px) {
+      margin-bottom: 23px;
+    }
+  }
+}
