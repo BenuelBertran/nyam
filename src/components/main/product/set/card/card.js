@@ -86,9 +86,9 @@ class Card extends Component {
               ? "card__filling card__filling--disabled" 
               : "card__filling"}>{filling}</p>
             <div className="card__bonus">
-              <p className="card__portion"><span className="card__portion-amount card__span">{portionAmount}</span>
+              <p className="card__portion"><b className="card__portion-amount">{portionAmount}</b>
               {portion}</p>
-              <p className="card__mouse"><span className="card__mouse-amount card__span">{mouseAmount}</span>
+              <p className="card__mouse"><b className="card__mouse-amount">{mouseAmount}</b>
               {mouse}</p>
               <p className="card__customer">{customer}</p>
             </div>
