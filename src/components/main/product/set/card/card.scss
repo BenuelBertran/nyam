@@ -175,27 +175,12 @@
     
     box-shadow: 0 1px 0 rgba(0, 0, 0, 0.004);
   }
-  
-  &__add {
-    position: relative;
-    &::before {
-      position: absolute;
-      content: "";
-      top: 14px;
-      right: 61px;
-      
-      width: 28px;
-      height: 1px;
-      
-      background-image: url(https://benuelbertran.github.io/nyam/images/buy-underline.png);
-      background-repeat: no-repeat;
-    }
-  }
-  
+
   &__link {
     font-size: 13px;
     line-height: 16px;
     font-weight: 400;
+    border-bottom: 1px dashed #2ea8e5;
     color: #1698d9;
     &:hover,
     &:focus {
