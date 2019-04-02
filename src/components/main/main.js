@@ -4,7 +4,7 @@ import {Product} from "./product/product";
 
 const Main = (props) => (
   <React.Fragment>
-    <h1 className="title main__title visually-hidden">{props.heading}</h1>
+    <h1 className="title main__title screen-readers-only">{props.heading}</h1>
     <Product
       title="Ты сегодня покормил кота?"
     />

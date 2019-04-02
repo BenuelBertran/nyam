@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Exo 2";
+  src:
+    url("../fonts/Exo2-Thin-100.woff") format("Woff"),
+    url("../fonts/Exo2-Thin-100.woff2") format("Woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Trebuchet MS";
+  src:
+    url("../fonts/TrebuchetMS-Regular-400.woff") format("Woff"),
+    url("../fonts/TrebuchetMS-Regular-400.woff2") format("Woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Trebuchet MS";
+  src:
+    url("../fonts/TrebuchetMS-Bold-700.woff") format("Woff"),
+    url("../fonts/TrebuchetMS-Bold-700.woff2") format("Woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

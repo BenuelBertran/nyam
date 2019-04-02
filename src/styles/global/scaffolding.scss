@@ -7,54 +7,29 @@
   line-height: $low-height;
   font-weight: $normal-weight;
   color: $main-dark-text;
-  
+
   background-color: rgba(0, 0, 0, 0.2);
   background-image: url("https://benuelbertran.github.io/nyam/images/page-bg.png");
   &::before,
   &::after {
     position: fixed;
     content: "";
-    
+
     width: 100%;
     height: 30%;
-    
+
     background-image: linear-gradient(180deg, rgba(0, 0, 0, .7), rgba(0, 0, 0, 0));
   }
   &::after {
     bottom: 0;
-    
+
     background-image: linear-gradient(360deg, rgba(0, 0, 0, .7), rgba(0, 0, 0, 0));
   }
-  
+
   @media (min-width: 720px) and (max-width: 1120px) {
     min-width: $tablet;
   }
   @media (min-width: 1120px) {
     min-width: $notebook;
   }
-} 
-
-//Заголовки
-.title {
-  font-size: $bigger-size;
-  line-height: $bigger-height;
-  font-weight: $lowest-weight;
-  color: $main-light-text;
-}
-
-//Визуально скрытый элемент
-.visually-hidden {
-  position: absolute;
-
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  border: 0;
-  padding: 0;
-
-  white-space: nowrap;
-
-  clip-path: inset(100%);
-  clip: rect(0, 0, 0, 0);
-  overflow: hidden;
 }
