@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "available": true,
+    "filling": "с фуа-гра",
+    "portionAmount": "10",
+    "portion": " порций",
+    "mouseAmount": "",
+    "mouse": "мышь в подарок",
+    "customer": "",
+    "quantity": "0,5",
+    "units": "кг",
+    "description": "Печень утки разварная с артишоками.",
+    "unavailable": "Печалька, с фуа-гра закончился."
+  },
+  {
+    "id": 2,
+    "available": true,
+    "filling": "с рыбой",
+    "portionAmount": "40",
+    "portion": " порций",
+    "mouseAmount": "2",
+    "mouse": " мыши в подарок",
+    "customer": "",
+    "quantity": "2",
+    "units": "кг",
+    "description": "Головы щучьи с чесноком да свежайшая сёмгушка.",
+    "unavailable": "Печалька, с рыбой закончился."
+  },
+  {
+    "id": 3,
+    "available": false,
+    "filling": "с курой",
+    "portionAmount": "100",
+    "portion": " порций",
+    "mouseAmount": "5",
+    "mouse": " мышей в подарок",
+    "customer": "заказчик доволен",
+    "quantity": "5",
+    "units": "кг",
+    "description": "Филе из цыплят с трюфелями в бульоне.",
+    "unavailable": "Печалька, с курой закончился."
+  }
+]

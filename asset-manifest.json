@@ -1,0 +1,18 @@
+{
+  "main.css": "/nyam/static/css/main.af1f9c46.chunk.css",
+  "main.js": "/nyam/static/js/main.e38c89d2.chunk.js",
+  "main.js.map": "/nyam/static/js/main.e38c89d2.chunk.js.map",
+  "runtime~main.js": "/nyam/static/js/runtime~main.8bee7290.js",
+  "runtime~main.js.map": "/nyam/static/js/runtime~main.8bee7290.js.map",
+  "static/js/2.ec51f06e.chunk.js": "/nyam/static/js/2.ec51f06e.chunk.js",
+  "static/js/2.ec51f06e.chunk.js.map": "/nyam/static/js/2.ec51f06e.chunk.js.map",
+  "index.html": "/nyam/index.html",
+  "precache-manifest.cbbb7c994718b425afa90d441eb5a098.js": "/nyam/precache-manifest.cbbb7c994718b425afa90d441eb5a098.js",
+  "service-worker.js": "/nyam/service-worker.js",
+  "static/css/main.af1f9c46.chunk.css.map": "/nyam/static/css/main.af1f9c46.chunk.css.map",
+  "static/media/index.scss": "/nyam/static/media/page-bg@1x.1d67731f.png",
+  "static/media/card-bg@1x.webp": "/nyam/static/media/card-bg@1x.30d9c363.webp",
+  "static/media/card-bg@1x.png": "/nyam/static/media/card-bg@1x.68894ae3.png",
+  "static/media/card-bg@2x.png": "/nyam/static/media/card-bg@2x.1bc3d597.png",
+  "static/media/card-bg@2x.webp": "/nyam/static/media/card-bg@2x.a97d683e.webp"
+}
