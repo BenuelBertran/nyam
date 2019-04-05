@@ -1,9 +1,7 @@
 [
   {
     "id": 1,
-    "label": "Сказочное заморское яство",
-    "question": "Котэ не одобряет?",
-    "title": "Нямушка",
+    "available": true,
     "filling": "с фуа-гра",
     "portionAmount": "10",
     "portion": " порций",
@@ -12,18 +10,12 @@
     "customer": "",
     "quantity": "0,5",
     "units": "кг",
-    "add": "Чего сидишь? Порадуй котэ,",
-    "link": " купи.",
     "description": "Печень утки разварная с артишоками.",
-    "over": "Печалька, с фуа-гра закончился.",
-    "available": true,
-    "selected": false
+    "unavailable": "Печалька, с фуа-гра закончился."
   },
   {
     "id": 2,
-    "label": "Сказочное заморское яство",
-    "question": "Котэ не одобряет?",
-    "title": "Нямушка",
+    "available": true,
     "filling": "с рыбой",
     "portionAmount": "40",
     "portion": " порций",
@@ -32,18 +24,12 @@
     "customer": "",
     "quantity": "2",
     "units": "кг",
-    "add": "Чего сидишь? Порадуй котэ,",
-    "link": " купи.",
     "description": "Головы щучьи с чесноком да свежайшая сёмгушка.",
-    "over": "Печалька, с рыбой закончился.",
-    "available": true,
-    "selected": true
+    "unavailable": "Печалька, с рыбой закончился."
   },
   {
     "id": 3,
-    "label": "Сказочное заморское яство",
-    "question": "Котэ не одобряет?",
-    "title": "Нямушка",
+    "available": false,
     "filling": "с курой",
     "portionAmount": "100",
     "portion": " порций",
@@ -52,11 +38,7 @@
     "customer": "заказчик доволен",
     "quantity": "5",
     "units": "кг",
-    "add": "Чего сидишь? Порадуй котэ,",
-    "link": " купи.",
     "description": "Филе из цыплят с трюфелями в бульоне.",
-    "over": "Печалька, с курой закончился.",
-    "available": false,
-    "selected": false
+    "unavailable": "Печалька, с курой закончился."
   }
 ]

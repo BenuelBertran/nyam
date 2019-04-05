@@ -1,0 +1,17 @@
+@import "styles/global/normalize";
+@import "styles/global/mixins";
+@import "styles/global/variables";
+@import "styles/global/helpers";
+@import "styles/global/fonts";
+@import "styles/global/scaffolding";
+
+@import "styles/blocks/title";
+@import "styles/blocks/button";
+
+@import "src/components/App";
+@import "src/components/Main";
+@import "src/components/Shop";
+@import "src/components/Catalog";
+@import "src/components/Pack";
+@import "src/components/Card";
+@import "src/components/Buy";

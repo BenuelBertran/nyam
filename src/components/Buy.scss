@@ -1,0 +1,32 @@
+.buy {
+  position: relative;
+  z-index: 1;
+
+  width: 320px;
+
+  font-size: 13px;
+  line-height: 16px;
+  color: $main-light-text;
+
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.004);
+
+  &__link {
+    border-bottom: 1px dashed $card-bg;
+    
+    font-size: 13px;
+    line-height: 16px;
+    font-weight: 400;
+    color: $card-bg;
+    
+    &:hover,
+    &:focus {
+      border-bottom: 1px dashed $card-bg-hover;
+      
+      color: $card-bg-hover;
+    }
+  }
+
+  &__unavailable {
+    color: $disabled-unavailable;
+  }
+}

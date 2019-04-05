@@ -1,0 +1,7 @@
+.catalog {
+  @media (min-width: 720px) {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+}

@@ -9,6 +9,7 @@
 
 # dev
 .editorconfig
+.env
 
 # misc
 .DS_Store
